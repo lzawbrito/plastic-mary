@@ -10,6 +10,6 @@ export default defineConfig({
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
-  },
-  base: '/plastic-mary/'
+  }
+  // base: '/plastic-mary/' # for if github pages under lzawbrito.github.io
 })

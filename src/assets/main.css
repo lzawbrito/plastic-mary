@@ -7,6 +7,10 @@
   font-weight: normal;
 }
 
+a {
+  color: var(--maroon);
+}
+
 @media (min-width: 1024px) {
   /* body {
     display: flex;

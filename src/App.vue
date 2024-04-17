@@ -6,7 +6,7 @@
 <template>
   <header>
     ------ PLASTIC MARY ------
-    <!-- <img alt="logo" class="logo" src="/brice.jpg" width="125" height="125" /> -->
+    <img alt="logo" class="logo" src="/note.gif" width="20" height="20" />
   </header>
 
   <RouterView />

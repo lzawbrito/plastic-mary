@@ -1,5 +1,5 @@
 :root {
-  --off-white: #fff9d2;
+  --off-white: #fffceb;
   --maroon: #782121;
 }
 
@@ -18,14 +18,24 @@
   font-weight: normal;
 }
 
+/* https://site.xavier.edu/polt/typewriters/tw-fonts.html */
+@font-face {
+  font-family: 'underwood-quiet';
+  src: url('/fonts/Underwood_Quiet_Tab.ttf');
+}
+
+@font-face {
+  font-family: 'royal-executive';
+  src: url('/fonts/RoyalExecutive.ttf');
+}
+
 body {
   min-height: 100vh;
   color: var(--color-text);
   background: var(--color-background);
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'underwood-quiet', Courier, monospace;
   line-height: 1.6;
-  /* font-family:; */
-  font-size: 15px;
+  font-size: 11px;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

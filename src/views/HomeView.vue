@@ -27,7 +27,7 @@
     <p>
       <img src="/aniglobe.gif" height="15px" :style="{ 'padding-right': '5px' }" />
       <span class="header">Breaking News: </span>
-      THANKS PINK NOISE BEST GIG OF THE YEAR!
+      After making a stupendous appearance in an acoustic form at electric mansion, PM is reported to be working on some studio recordings and writing many originals.. perhaps an album or ep will be coming soon? who's to say. not me certainly, I am only a humble civil servant, not at all privvy to the inner workings of this band. 
     </p>
     <img src="/note.gif" height="15px" :style="{ 'padding-right': '2px' }" />
     <span class="header">Shows:</span>
